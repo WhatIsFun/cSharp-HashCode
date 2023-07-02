@@ -1,0 +1,15 @@
+C:\Users\moham\source\repos\cSharp-HashCode\bin\Debug\net6.0\cSharp-HashCode.exe
+C:\Users\moham\source\repos\cSharp-HashCode\bin\Debug\net6.0\cSharp-HashCode.deps.json
+C:\Users\moham\source\repos\cSharp-HashCode\bin\Debug\net6.0\cSharp-HashCode.runtimeconfig.json
+C:\Users\moham\source\repos\cSharp-HashCode\bin\Debug\net6.0\cSharp-HashCode.dll
+C:\Users\moham\source\repos\cSharp-HashCode\bin\Debug\net6.0\cSharp-HashCode.pdb
+C:\Users\moham\source\repos\cSharp-HashCode\obj\Debug\net6.0\cSharp-HashCode.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\cSharp-HashCode\obj\Debug\net6.0\cSharp-HashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\cSharp-HashCode\obj\Debug\net6.0\cSharp-HashCode.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\cSharp-HashCode\obj\Debug\net6.0\cSharp-HashCode.AssemblyInfo.cs
+C:\Users\moham\source\repos\cSharp-HashCode\obj\Debug\net6.0\cSharp-HashCode.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\cSharp-HashCode\obj\Debug\net6.0\cSharp-HashCode.dll
+C:\Users\moham\source\repos\cSharp-HashCode\obj\Debug\net6.0\refint\cSharp-HashCode.dll
+C:\Users\moham\source\repos\cSharp-HashCode\obj\Debug\net6.0\cSharp-HashCode.pdb
+C:\Users\moham\source\repos\cSharp-HashCode\obj\Debug\net6.0\cSharp-HashCode.genruntimeconfig.cache
+C:\Users\moham\source\repos\cSharp-HashCode\obj\Debug\net6.0\ref\cSharp-HashCode.dll
