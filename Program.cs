@@ -46,8 +46,6 @@ namespace cSharp_HashCode
 
             Console.WriteLine(AscendingSort(a, 6));
 
-
-
         }
 
         //Write a program to search a number in an array , consider  that the is sorted number are from in ascending order
